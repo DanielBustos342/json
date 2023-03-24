@@ -1,0 +1,53 @@
+[
+{
+    "nombre": "Daniel Esteban",
+    "apellido": "Bustos",
+    "edad":31,
+    "precioDeAsiento":3000,
+    "pagado":true,
+    "asiento":{
+        "numero":23,
+        "letra":"L",
+        "cargador":false
+    },
+"historial":[
+    {
+        "salida":"Tucuman",
+        "destino":"Bs. As",
+        "fecha":"10/12/2020"
+    },
+     {
+        "salida":"Bs. As",
+        "destino":"Cordoba",
+        "fecha":"10/12/2021"
+    }
+    ]
+
+},
+
+{
+    "nombre": "Lilen Wara Anahi",
+    "apellido": "Laguna",
+    "edad":32,
+    "precioDeAsiento":3500,
+    "pagado":true,
+    "asiento":{
+        "numero":15,
+        "letra":"B",
+        "cargador":false
+    },
+"historial":[
+    {
+        "salida":"Tucuman",
+        "destino":"Bs. As",
+        "fecha":"10/12/2020"
+    },
+     {
+        "salida":"Bs. As",
+        "destino":"Cordoba",
+        "fecha":"10/12/2021"
+    }
+]
+
+}
+]
